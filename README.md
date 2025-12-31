@@ -39,13 +39,6 @@
 | **🌐 Product Landing Page** | MERN-based product platform with JWT auth, Tailwind UI, and Gemini-powered auto search | [Repo](https://github.com/DhineshKumarS08/Product-Landing-Page-with-Search-Autosuggest) |
 | **🎬 FilmFilo** | Movie-focused MERN application with JWT authentication and dynamic content rendering | [Repo](https://github.com/DhineshKumarS08/React-FilmFolio) |
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="48%" />
-</p>
 
 ---
 
