@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack MERN Developer</h3>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">📩 Contact</a> |
+  <a href="dhineshkumardk1234@gmail.com">📩 Contact</a> |
   <a href="https://github.com/YOUR_USERNAME">💻 GitHub</a>
 </p>
 
@@ -43,9 +43,9 @@
 ---
 
 ### 📣 Let's Connect!
-- 📫 **Email**: your-email@example.com
-- 💼 **LinkedIn**: (add later)
-- 🧠 **LeetCode**: (add later)
+- 📫 **Email**: dhineshkumardk1234@gmail.com
+- 💼 **LinkedIn**: ([LinkedIn](https://www.linkedin.com/in/dhinesh-kumar-s-6a3697263/))
+- 🧠 **LeetCode**: ([LeetCode](https://www.linkedin.com/in/dhinesh-kumar-s-6a3697263/))
 
 ---
 
