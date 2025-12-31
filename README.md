@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="dhineshkumardk1234@gmail.com">📩 Contact</a> |
-  <a href="https://github.com/YOUR_USERNAME">💻 GitHub</a>
+  <a href="https://github.com/DhineshKumarS08">💻 GitHub</a>
 </p>
 
 ---
@@ -44,8 +44,8 @@
 
 ### 📣 Let's Connect!
 - 📫 **Email**: dhineshkumardk1234@gmail.com
-- 💼 **LinkedIn**: ([LinkedIn](https://www.linkedin.com/in/dhinesh-kumar-s-6a3697263/))
-- 🧠 **LeetCode**: ([LeetCode](https://www.linkedin.com/in/dhinesh-kumar-s-6a3697263/))
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/dhinesh-kumar-s-6a3697263/)
+- 🧠 **LeetCode**: [LeetCode](https://www.linkedin.com/in/dhinesh-kumar-s-6a3697263/)
 
 ---
 
