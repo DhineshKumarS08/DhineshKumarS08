@@ -1,61 +1,59 @@
-<h1 align="center">👋 Hi, I'm DhineshKumar S</h1>
-<h3 align="center">🚀 MERN Stack Developer | Secure & Scalable Web Applications</h3>
+<h1 align="center">Hi 👋, I'm DhineshKumar S</h1>
+<h3 align="center">🚀 Full Stack MERN Developer</h3>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">📩 Email</a> •
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">🔗 LinkedIn</a>
+  <a href="mailto:your-email@example.com">📩 Contact</a> |
+  <a href="https://github.com/YOUR_USERNAME">💻 GitHub</a>
 </p>
 
 ---
 
-## 🧠 Skills & Technologies
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+### 🧠 About Me
+- 🎯 Passionate about building secure and scalable full-stack web applications
+- 👨‍💻 Experienced in MERN stack (MongoDB, Express, React, Node.js)
+- 🤖 Worked with AI features such as auto search and content segregation using Gemini API
+- 📘 Currently strengthening backend development and system design fundamentals
+- 📣 Open to internship and junior developer opportunities
 
 ---
 
-## 🤖 AI Exposure
-- Used **Gemini API** for **auto search functionality**
-- Implemented **content segregation & filtering** using AI responses
-- Integrated AI features into MERN applications for better user experience
+### 🛠️ Tech Stack
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 📌 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| **📝 JustShow** | MERN Stack application with JWT authentication, secure routes, and responsive Tailwind CSS UI |
-| **🌐 Product Landing Page** | MERN-based product platform with JWT authentication, Tailwind UI, and Gemini-powered auto search |
-| **🎬 FilmFilo** | Movie-based MERN application with JWT authentication, dynamic content rendering, and clean UI |
+| Project Name | Description | Code |
+|-------------|------------|------|
+| **📝 JustShow** | MERN Stack app with JWT authentication, secure routes, and responsive Tailwind CSS UI | [Repo](https://github.com/DhineshKumarS08/justshow) |
+| **🌐 Product Landing Page** | MERN-based product platform with JWT auth, Tailwind UI, and Gemini-powered auto search | [Repo](https://github.com/DhineshKumarS08/Product-Landing-Page-with-Search-Autosuggest) |
+| **🎬 FilmFilo** | Movie-focused MERN application with JWT authentication and dynamic content rendering | [Repo](https://github.com/DhineshKumarS08/React-FilmFolio) |
 
 ---
 
-## 📊 GitHub Stats & Activity
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 📩 Let's Connect
-- ✉️ Email: your-email@example.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+### 📣 Let's Connect!
+- 📫 **Email**: your-email@example.com
+- 💼 **LinkedIn**: (add later)
+- 🧠 **LeetCode**: (add later)
 
 ---
 
-*“Focused on learning, building, and improving every day.”*
+_“Focused on consistent learning and real-world project building.”_
