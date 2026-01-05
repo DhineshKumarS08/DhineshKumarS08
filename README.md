@@ -37,7 +37,7 @@
 |-------------|------------|------|
 | **📝 JustShow** | MERN Stack app with JWT authentication, secure routes, and responsive Tailwind CSS UI | [Repo](https://github.com/DhineshKumarS08/justshow) |
 | **🌐 Product Landing Page** | MERN-based product platform with JWT auth, Tailwind UI, and Gemini-powered auto search | [Repo](https://github.com/DhineshKumarS08/Product-Landing-Page-with-Search-Autosuggest) |
-| **🎬 FilmFilo** | Movie-focused MERN application with JWT authentication and dynamic content rendering | [Repo](https://github.com/DhineshKumarS08/React-FilmFolio) |
+| **🎬 FilmFolio** | Movie-focused MERN application with JWT authentication and dynamic content rendering | [Repo](https://github.com/DhineshKumarS08/React-FilmFolio) |
 
 
 ---
