@@ -11,7 +11,6 @@
 ### 🧠 About Me
 - 🎯 Passionate about building secure and scalable full-stack web applications
 - 👨‍💻 Experienced in MERN stack (MongoDB, Express, React, Node.js)
-- 🤖 Worked with AI features such as auto search and content segregation using Gemini API
 - 📘 Currently strengthening backend development and system design fundamentals
 - 📣 Open to internship and junior developer opportunities
 
